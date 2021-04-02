@@ -5,5 +5,7 @@ Welcome to Telusko Kitchen
 Kheer
 Pasta
 Gulabjamun
+Beans
+Pizza
 
 Thank you..
